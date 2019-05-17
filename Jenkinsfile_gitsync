@@ -1,4 +1,4 @@
-@Library('jenkins_libs') _
+@Library('jenkins-libs') _
 
 gitsync.Выполнить(AGENT: "windows",
         DB_USER_CREDENTIONALS_ID: "DB_USER_CREDENTIONALS_ID",
