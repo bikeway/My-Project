@@ -27,7 +27,7 @@
 	"repositories": [
 	  {
 			"name": "ТестовыйРепозиторий2",
-			"path": "C:\1C Bases\RepoMy",
+			"path": "C:\\1C Bases\\RepoMy",
 			"dir": "./src/cf",
 			"temp-dir": "",
 			"v8version": "8.3.13",
