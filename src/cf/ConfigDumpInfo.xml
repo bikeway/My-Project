@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.7">
+	<ConfigVersions>
+		<Metadata name="Catalog.Справочник1" id="bc107ae4-936b-4576-be6c-fbfe92223636" configVersion="054d37e2e1062943923d7ebb657bad8f00000000">
+			<Metadata name="Catalog.Справочник1.Attribute.Реквизит2" id="a951e9a4-c4c7-4f1e-8387-79fe4ae3965a"/>
+			<Metadata name="Catalog.Справочник1.Attribute.Реквизит1" id="befed0bf-32db-473e-84e6-48ad2a728d16"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="fcb9a65b-7a0c-4e2e-a982-0d3271ac7c46" configVersion="793acab4fb42b74b9cebd771ef0e7c4d00000000"/>
+		<Metadata name="Document.Документ1" id="31cc9941-b1b4-4089-a02e-4f0c345b013b" configVersion="2038388e4fc98c4f8c8186495def41ae00000000">
+			<Metadata name="Document.Документ1.TabularSection.ТабличнаяЧасть1" id="13b31bc1-086c-4e57-a58e-478bc8bc1615"/>
+			<Metadata name="Document.Документ1.Attribute.Реквизит2" id="67a126aa-27d8-49e1-a0db-a1470b538777"/>
+			<Metadata name="Document.Документ1.Attribute.Реквизит1" id="7df5c547-ad93-4341-aade-d6c099228ec5"/>
+			<Metadata name="Document.Документ1.TabularSection.ТабличнаяЧасть1.Attribute.Реквизит1" id="8f57e427-2c19-4bb4-84b6-1282a4d81ee4"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="e44c1ad1-6809-475e-aaed-7e40bb5149b3" configVersion="48354b34cec49d4b80daacda62388ff700000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
