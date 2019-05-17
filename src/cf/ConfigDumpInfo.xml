@@ -5,7 +5,8 @@
 			<Metadata name="Catalog.Справочник1.Attribute.Реквизит2" id="a951e9a4-c4c7-4f1e-8387-79fe4ae3965a"/>
 			<Metadata name="Catalog.Справочник1.Attribute.Реквизит1" id="befed0bf-32db-473e-84e6-48ad2a728d16"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="fcb9a65b-7a0c-4e2e-a982-0d3271ac7c46" configVersion="793acab4fb42b74b9cebd771ef0e7c4d00000000"/>
+		<Metadata name="Catalog.Справочник2" id="a25b78bb-d280-4196-b3d5-9dc614a89137" configVersion="3c2f72b59dba604d97dc4fd9bd36d30300000000"/>
+		<Metadata name="Configuration.Конфигурация" id="fcb9a65b-7a0c-4e2e-a982-0d3271ac7c46" configVersion="f7e2cb3ccc00464caea692f4106915f900000000"/>
 		<Metadata name="Document.Документ1" id="31cc9941-b1b4-4089-a02e-4f0c345b013b" configVersion="2038388e4fc98c4f8c8186495def41ae00000000">
 			<Metadata name="Document.Документ1.TabularSection.ТабличнаяЧасть1" id="13b31bc1-086c-4e57-a58e-478bc8bc1615"/>
 			<Metadata name="Document.Документ1.Attribute.Реквизит2" id="67a126aa-27d8-49e1-a0db-a1470b538777"/>
