@@ -32,7 +32,7 @@
 			"temp-dir": "",
 			"v8version": "8.3.13",
 			"plugins-config": {
-				"URL": "git@github.com:bikeway/My-Project.git"
+				"URL": "https://github.com/bikeway/My-Project.git"
 			}
 		}
 	]
